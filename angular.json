@@ -4,7 +4,7 @@
   "newProjectRoot": "projects",
   "projects": {
     "ngtest": {
-      "root": "",
+      "root": "chartTest/",
       "sourceRoot": "src",
       "projectType": "application",
       "prefix": "app",
