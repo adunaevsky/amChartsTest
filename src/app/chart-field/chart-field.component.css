@@ -1,0 +1,8 @@
+.amcharts-amexport-item {
+    border: 2px solid #777;
+  }
+  
+  .amcharts-amexport-top .amcharts-amexport-item > .amcharts-amexport-menu {
+    top: -3px!important;
+    left: 2px
+  }
